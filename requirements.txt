@@ -1,0 +1,14 @@
+torch>=2.0.0
+torchvision>=0.15.0
+diffusers>=0.24.0
+transformers>=4.36.0
+accelerate>=0.27.0
+wandb>=0.16.0
+Pillow>=10.0.0
+tqdm>=4.66.0
+numpy>=1.24.0
+ftfy>=6.1.1
+regex>=2023.8.8
+safetensors>=0.4.0
+scipy>=1.11.0
+pytorch-lightning>=2.1.0
