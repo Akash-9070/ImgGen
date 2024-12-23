@@ -27,7 +27,7 @@ An advanced implementation for fine-tuning Stable Diffusion models with custom d
 
 1. Clone and install:
 ```bash
-git clone https://github.com/yourusername/ai-image-generator
+git clone https://github.com/Akash-9070/ImgGen.git
 cd ai-image-generator
 pip install -r requirements.txt
 ```
